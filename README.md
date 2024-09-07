@@ -1,6 +1,6 @@
 
 <h3>Hello World 👋</h3>
-<p>I'm a Passionate Full-Stack Software Engineer </p>
+<p>I'm a passionate Full-stack Software Engineer </p>
 
   <un>
 <h4><li> 🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks(Angular and React)</li></h4>
