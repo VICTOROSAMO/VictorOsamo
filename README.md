@@ -3,8 +3,8 @@
 <p>I'm a Passionate Full-Stack Software Engineer </p>
 
   <un>
-<h5><li> 🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks(Angular and React)</li></h5>
-<h5><li>🌱 Learning design patterns in depth</li></h5>
+<h3><li> 🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks(Angular and React)</li></h3>
+<h4><li>🌱 Learning design patterns in depth</li></h4>
      <br/> 
 </ul>
   
