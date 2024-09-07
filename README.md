@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello World 👋</h1>
-<h2>'m Victor Osamo</h2>
+<h2 align="center">Hello World 👋</h2>
+<h2>I'm Victor Osamo</h2>
 <h3 align="center">A Passionate Full-stack Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
