@@ -5,6 +5,7 @@
   <un>
 <h4><li> 🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks(Angular and React)</li></h4>
 <h4><li>🌱 Learning design patterns in depth</li></h4>
+<h4><li>💡 AI & Machine Learning</li></h4>
      <br/> 
 </ul>
   
