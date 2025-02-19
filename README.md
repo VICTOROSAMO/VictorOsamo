@@ -9,7 +9,7 @@
      <br/> 
 </ul>
 
-<img src="https://camo.githubusercontent.com/5586929aeb3500e76a6211d0cbab9f7d22c94dde5557de31b048edd9af931512/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f616e636f64657326636f756e745f707269766174653d74727565267468656d653d746f6b796f6e69676874266c696e655f6865696768743d3532" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joancodes&amp;count_private=true&amp;theme=tokyonight&amp;line_height=52" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/5586929aeb3500e76a6211d0cbab9f7d22c94dde5557de31b048edd9af931512/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f616e636f64657326636f756e745f707269766174653d74727565267468656d653d746f6b796f6e69676874266c696e655f6865696768743d3532" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&amp;count_private=true&amp;theme=tokyonight&amp;line_height=52" style="max-width: 100%;">
   
 <h3> Expertise</h3>
 <p>
