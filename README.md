@@ -10,6 +10,8 @@
 </ul>
   
 <h3> Expertise</h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en" alt="VICTOROSAMO" /></p>
 <p>
   <a target="_blank" href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
