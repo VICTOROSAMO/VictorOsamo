@@ -1,4 +1,4 @@
-<h3>Hello World 👋</h3>
+<h3>Hello World 👋</h3> 
 <p>I'm a passionate Full-stack Software Engineer </p>
 
 <ul>
@@ -77,5 +77,13 @@
   <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
   <a href="mailto:youremail@example.com">Email</a>
 </p>
+
+---
+
+<h3>Visitor Counter</h3>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VICTOROSAMO&label=Profile%20views&color=0e75b6&style=flat" alt="VICTOROSAMO visitor counter" />
+</p>
+
 
 
