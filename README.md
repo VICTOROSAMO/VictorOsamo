@@ -1,18 +1,23 @@
-
 <h3>Hello World 👋</h3>
-<p>I'm a passionate Full-stack Software Engineer </p>
+<p>I'm a passionate Full-stack Software Engineer</p>
 
-  <un>
-<h4><li> 🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks(React, Angular and Vue)</li></h4>
-<h4><li>🌱 Learning design patterns in depth</li></h4>
-<h4><li>💡 AI & Machine Learning</li></h4>
-     <br/> 
+<ul>
+  <li><h4>🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks (React, Angular, Vue)</h4></li>
+  <li><h4>🌱 Learning design patterns in depth</h4></li>
+  <li><h4>💡 Exploring AI & Machine Learning</h4></li>
 </ul>
-  
-<h3> Expertise</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en" alt="VICTOROSAMO" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&locale=en&layout=compact" alt="VICTOROSAMO" /></p>
+<br/>
+
+<h3>⚡ Expertise</h3>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en" alt="VICTOROSAMO" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&locale=en&layout=compact" alt="VICTOROSAMO" />
+</p>
+
 <p>
   <a target="_blank" href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
@@ -25,6 +30,9 @@
   </a>
   <a target="_blank" href="https://reactjs.org">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  </a>
+  <a target="_blank" href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" />
   </a>
   <a target="_blank" href="https://www.javascript.com">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -48,16 +56,13 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
   </a>
 </p>
+
 <br/>
 
-<h3>Connect with me</h3>
+<h3>📫 Connect with me</h3>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/victor-osamo-b2ab9421b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
+  <!-- Add your social media links here -->
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
+  <a href="mailto:youremail@example.com">Email</a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en" alt="VICTOROSAMO" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&" alt="VICTOROSAMO" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&locale=en&layout=compact" alt="VICTOROSAMO" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO" alt="VICTOROSAMO" /></a></p>
