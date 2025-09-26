@@ -12,10 +12,13 @@
 <h3>⚡ Expertise</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en" alt="VICTOROSAMO" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en&theme=radical" 
+       alt="VICTOROSAMO" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&locale=en&layout=compact" alt="VICTOROSAMO" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&locale=en&layout=compact&theme=radical" 
+       alt="VICTOROSAMO" />
 </p>
 
 <p>
@@ -61,8 +64,8 @@
 
 <h3>📫 Connect with me</h3>
 <p>
-  <!-- Add your social media links here -->
   <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
   <a href="mailto:youremail@example.com">Email</a>
 </p>
+
