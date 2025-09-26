@@ -12,18 +12,16 @@
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&locale=en" alt="VICTOROSAMO" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&theme=tokyonight&locale=en" alt="VICTOROSAMO stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&locale=en&layout=compact" alt="VICTOROSAMO" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&layout=compact&theme=tokyonight&locale=en" alt="VICTOROSAMO top languages" />
 </p>
-
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&" alt="VICTOROSAMO streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&theme=tokyonight" alt="VICTOROSAMO streak stats" />
 </p>
-
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="VICTOROSAMO trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="VICTOROSAMO trophies" />
 </p>
 
 ---
@@ -42,6 +40,9 @@
   </a>
   <a target="_blank" href="https://reactjs.org">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  </a>
+  <a target="_blank" href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" />
   </a>
   <a target="_blank" href="https://www.javascript.com">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -76,4 +77,5 @@
   <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
   <a href="mailto:youremail@example.com">Email</a>
 </p>
+
 
