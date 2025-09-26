@@ -68,9 +68,6 @@
 
 ---
 
-<h3>🌐 Connect with me</h3>
-
-
 <br/>
 
 <h3>📫 Connect with me</h3>
