@@ -1,5 +1,12 @@
-<h3>Hello World 👋</h3> 
-<p>I'm a passionate Full-stack Software Engineer </p>
+<h3 align="center">Hello World 👋</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" width="500"/>
+</p>
 
 <ul>
   <li>🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks (React, Angular, and Vue)</li>
@@ -69,8 +76,6 @@
 
 ---
 
-<br/>
-
 <h3>📫 Connect with me</h3>
 <p>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
@@ -84,6 +89,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=VICTOROSAMO&label=Profile%20views&color=0e75b6&style=flat" alt="VICTOROSAMO visitor counter" />
 </p>
+
 
 
 
