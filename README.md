@@ -1,95 +1,89 @@
-<h3 align="center">Hello World 👋</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Hi, I'm Victor Osamo 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" width="500"/>
-</p>
-
-<ul>
-  <li>🔭 Working on multiple backend and frontend projects using Spring Boot and JavaScript Frameworks (React, Angular, and Vue)</li>
-  <li>🌱 Learning design patterns in depth</li>
-  <li>💡 AI & Machine Learning</li>
-</ul>
-
----
-
-<h3>📊 GitHub Stats</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&theme=tokyonight&locale=en" alt="VICTOROSAMO stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VICTOROSAMO&show_icons=true&layout=compact&theme=tokyonight&locale=en" alt="VICTOROSAMO top languages" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&theme=tokyonight" alt="VICTOROSAMO streak stats" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="VICTOROSAMO trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800000&center=true&vCenter=true&width=500&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
 
-<h3>🛠️ Expertise</h3>
+### 👨‍💻 About Me
 
-<p>
-  <a target="_blank" href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, and React**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
+
+---
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 Building full-stack apps using Spring Boot + React</li>
+        <li>⚙️ Designing clean REST APIs & microservices</li>
+        <li>🚀 Exploring AWS & Cloud Deployment</li>
+        <li>📚 Practicing software design & system architecture</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://spring.io">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://angular.io">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-  </a>
-  <a target="_blank" href="https://reactjs.org">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  </a>
-  <a target="_blank" href="https://vuejs.org">
-    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" />
-  </a>
-  <a target="_blank" href="https://www.javascript.com">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  </a>
-  <a target="_blank" href="https://www.typescriptlang.org">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  </a>
-  <a target="_blank" href="https://www.mysql.com">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  </a>
-  <a target="_blank" href="https://www.docker.com">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  </a>
-  <a target="_blank" href="https://kubernetes.io">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-  </a>
-  <a target="_blank" href="https://www.jenkins.io">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" />
-  </a>
-  <a target="_blank" href="https://aws.amazon.com">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3>📫 Connect with me</h3>
-<p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> •
-  <a href="mailto:youremail@example.com">Email</a>
+### 🛠️ Tech Stack
+
+#### 🚀 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&theme=maroongold" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&theme=maroongold" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTOROSAMO&layout=compact&theme=maroongold" />
 </p>
 
 ---
 
-<h3>Visitor Counter</h3>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=VICTOROSAMO&label=Profile%20views&color=0e75b6&style=flat" alt="VICTOROSAMO visitor counter" />
+### 🏆 Badges & Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO&theme=onedark&margin-w=10&margin-h=10" />
 </p>
 
+---
 
-
-
+### 👀 Visitor Count
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VICTOROSAMO&label=Profile%20views&color=800000&style=flat" />
+</p>
