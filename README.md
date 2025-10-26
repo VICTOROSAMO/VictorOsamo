@@ -72,13 +72,8 @@ Passionate full-stack software engineer with strong expertise in building scalab
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -88,10 +83,11 @@ Passionate full-stack software engineer with strong expertise in building scalab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&theme=maroongold" />
-  <img src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&theme=maroongold" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTOROSAMO&layout=compact&theme=maroongold" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VICTOROSAMO&theme=maroongold"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&theme=maroongold"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTOROSAMO&layout=compact&theme=maroongold&card_width=320"/>
 </p>
+
 
 ---
 
