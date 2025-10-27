@@ -100,16 +100,24 @@ Passionate full-stack software engineer with strong expertise in building scalab
   <img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO&theme=tokyonight&margin-w=10&margin-h=10&no frame=true&column=7&title=Commit,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
 </p>
 
+<p> <img src="https://github-profile-trophy.vercel.app/?username=VICTOROSAMO&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="VICTOROSAMO trophies" />
+
 ---
 ### 📈 GitHub Contribution Insights
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorosamo&theme=github_dark" />
 </p>
 
-
+---
 
 
 ### 👀 Visitor Count
 <p>
   <img src="https://komarev.com/ghpvc/?username=VICTOROSAMO&label=Profile%20views&color=800000&style=flat" />
 </p>
+
+
+
+
+
+
