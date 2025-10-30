@@ -86,7 +86,7 @@ Passionate full-stack software engineer with strong expertise in building scalab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=VICTOROSAMO&theme=maroongold" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=victorosamo&theme=maroongold"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICTOROSAMO&show_icons=true&theme=maroongold"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTOROSAMO&layout=compact&theme=maroongold&card_width=320"/>
 </p>
