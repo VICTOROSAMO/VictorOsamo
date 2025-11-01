@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Victor Osamo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=520&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+Nodejs+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, and React**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
+Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, Node.js and React**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
 
 ---
 
@@ -16,7 +16,7 @@ Passionate full-stack software engineer with strong expertise in building scalab
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 Building full-stack apps using Spring Boot + React</li>
+        <li>🔭 Building full-stack apps using Spring Boot + Node.js + React</li>
         <li>⚙️ Designing clean REST APIs & microservices</li>
         <li>🚀 Exploring AWS & Cloud Deployment</li>
         <li>📚 Practicing software design & system architecture</li>
@@ -32,7 +32,7 @@ Passionate full-stack software engineer with strong expertise in building scalab
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/osamo-victor-069918351/)" target="_blank">
+  <a href="https://www.linkedin.com/in/osamo-victor-069918351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:osamovictor2018@gmail.com">
@@ -50,10 +50,12 @@ Passionate full-stack software engineer with strong expertise in building scalab
 
 #### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 #### 🎨 Frontend
