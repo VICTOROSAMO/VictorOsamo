@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Victor Osamo</h1>
+<h1 align="center"> Hi👋, I'm Victor Osamo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=520&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+Nodejs+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
