@@ -1,14 +1,14 @@
 <h1 align="center"> Hi👋, I'm Victor Osamo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=520&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+Nodejs+%7C+React+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=520&lines=Full-stack+Software+Engineer;Spring+Boot+%7C+MERN+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, Node.js, Python and React**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
+Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, and MERN Stack**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
 
 ---
 
