@@ -16,7 +16,7 @@ Passionate full-stack software engineer with strong expertise in building scalab
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 Building full-stack apps using Spring Boot + Node.js + React</li>
+        <li>🔭 Building full-stack apps using Spring Boot + MERN Stack</li>
         <li>⚙️ Designing clean REST APIs & microservices</li>
         <li>🚀 Exploring AWS & Cloud Deployment</li>
         <li>📚 Practicing software design & system architecture</li>
