@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, and MERN Stack**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
+Passionate full-stack software engineer with strong expertise in building scalable applications using **Java, Spring Boot, and MERN**. I focus on clean architecture, REST API design, database engineering, and cloud deployment. I enjoy solving real-world problems through code and continuously learning better ways to build modern software systems.
 
 ---
 
