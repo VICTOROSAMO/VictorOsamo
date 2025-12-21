@@ -88,18 +88,23 @@ Passionate full-stack software engineer with strong expertise in building scalab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=victorosamo&theme=maroongold&hide_border=true&token=YOUR_GH_TOKEN"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorosamo&show_icons=true&theme=maroongold&hide_border=true&token=YOUR_GH_TOKEN"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorosamo&layout=compact&theme=maroongold&card_width=320&hide_border=true&token=YOUR_GH_TOKEN"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=victorosamo&theme=maroongold&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorosamo&show_icons=true&theme=maroongold&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorosamo&layout=compact&theme=maroongold&card_width=320&hide_border=true"/>
 </p>
 
 ---
 
 ### 🏆 Badges & Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=VICTOROSAMO&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies"/>
+</p>
+
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=victorosamo&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="VICTOROSAMO trophies"/>
 </p>
+
 
 ---
 
